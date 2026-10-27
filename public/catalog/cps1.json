@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "game_type": "CPS1",
-  "updated_at": "2026-10-27T08:56:49.602Z",
+  "updated_at": "2026-10-27T08:57:04.098Z",
   "games": [
     {
       "id": "cps1-20261022-5933b0b3",
@@ -422,18 +422,6 @@
       "revision": 2,
       "updated_at": "2026-10-23T07:06:28.491Z",
       "name_en": "Pang! 3"
-    },
-    {
-      "id": "cps1-20261023-c4aa3b2c",
-      "name": "三国志：火凤凰 J",
-      "cover_path": "../covers/cps1/cps1-20261023-c4aa3b2c/cover.webp",
-      "rom_path": "../roms/cps1/cps1-20261023-c4aa3b2c/wofj.zip",
-      "file_name": "wofj.zip",
-      "file_size": 2543117,
-      "sha256": "353c70307b67f4d765910df6314ed8068338032acd0d5814cf31bef37962563d",
-      "revision": 2,
-      "updated_at": "2026-10-23T07:06:28.491Z",
-      "name_en": "Tenchi wo Kurau II: Sekiheki no Tatakai"
     }
   ]
 }
