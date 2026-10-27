@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "game_type": "CPS1",
-  "updated_at": "2026-10-27T08:41:18.069Z",
+  "updated_at": "2026-10-27T08:56:49.602Z",
   "games": [
     {
       "id": "cps1-20261022-5933b0b3",
@@ -422,18 +422,6 @@
       "revision": 2,
       "updated_at": "2026-10-23T07:06:28.491Z",
       "name_en": "Pang! 3"
-    },
-    {
-      "id": "cps1-20261023-26bad625",
-      "name": "三国志：火凤凰 H",
-      "cover_path": "../covers/cps1/cps1-20261023-26bad625/cover.webp",
-      "rom_path": "../roms/cps1/cps1-20261023-26bad625/wofhfh.zip",
-      "file_name": "wofhfh.zip",
-      "file_size": 2738405,
-      "sha256": "885f21fa049b4f1886ac60afb0401540a278056a6ab0bb76887810a37841ed57",
-      "revision": 2,
-      "updated_at": "2026-10-23T07:06:28.491Z",
-      "name_en": "Huo Feng Huang"
     },
     {
       "id": "cps1-20261023-c4aa3b2c",
