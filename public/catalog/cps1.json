@@ -1,20 +1,8 @@
 {
   "schema_version": 2,
   "game_type": "CPS1",
-  "updated_at": "2026-10-27T08:57:04.098Z",
+  "updated_at": "2026-10-27T09:18:16.592Z",
   "games": [
-    {
-      "id": "cps1-20261022-5933b0b3",
-      "name": "1941 反击战",
-      "cover_path": "../covers/cps1/cps1-20261022-5933b0b3/cover.webp",
-      "rom_path": "../roms/cps1/cps1-20261022-5933b0b3/1941.zip",
-      "file_name": "1941.zip",
-      "file_size": 1420289,
-      "sha256": "c85e96362722c3a5f449ebfcf13a6734fa265a1c480057bbd050bc457414e262",
-      "revision": 3,
-      "updated_at": "2026-10-23T07:06:28.491Z",
-      "name_en": "1941: Counter Attack"
-    },
     {
       "id": "cps1-20261022-c2880e94",
       "name": "三个奇迹",
