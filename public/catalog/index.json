@@ -1,0 +1,42 @@
+{
+  "schema_version": 2,
+  "updated_at": "2026-10-26T06:47:25.434Z",
+  "repositories": {
+    "hermixrom": {
+      "url": "https://github.com/zjinnova2027/hermixrom",
+      "branch": "main",
+      "public_base_url": "https://raw.githubusercontent.com/zjinnova2027/hermixrom/main/public",
+      "fallback_public_base_url": "https://gh-proxy.com/https://raw.githubusercontent.com/zjinnova2027/hermixrom/main/public"
+    }
+  },
+  "catalogs": {
+    "GBA": {
+      "repository": "hermixrom",
+      "repository_url": "https://github.com/zjinnova2027/hermixrom",
+      "url": "https://raw.githubusercontent.com/zjinnova2027/hermixrom/main/public/catalog/gba.json",
+      "fallback_url": "https://gh-proxy.com/https://raw.githubusercontent.com/zjinnova2027/hermixrom/main/public/catalog/gba.json",
+      "updated_at": "2026-10-23T08:02:07.012Z"
+    },
+    "MD": {
+      "repository": "hermixrom",
+      "repository_url": "https://github.com/zjinnova2027/hermixrom",
+      "url": "https://raw.githubusercontent.com/zjinnova2027/hermixrom/main/public/catalog/md.json",
+      "fallback_url": "https://gh-proxy.com/https://raw.githubusercontent.com/zjinnova2027/hermixrom/main/public/catalog/md.json",
+      "updated_at": "2026-10-26T06:47:25.434Z"
+    },
+    "CPS1": {
+      "repository": "hermixrom",
+      "repository_url": "https://github.com/zjinnova2027/hermixrom",
+      "url": "https://raw.githubusercontent.com/zjinnova2027/hermixrom/main/public/catalog/cps1.json",
+      "fallback_url": "https://gh-proxy.com/https://raw.githubusercontent.com/zjinnova2027/hermixrom/main/public/catalog/cps1.json",
+      "updated_at": "2026-10-23T07:06:28.491Z"
+    },
+    "FC": {
+      "repository": "hermixrom",
+      "repository_url": "https://github.com/zjinnova2027/hermixrom",
+      "url": "https://raw.githubusercontent.com/zjinnova2027/hermixrom/main/public/catalog/fc.json",
+      "fallback_url": "https://gh-proxy.com/https://raw.githubusercontent.com/zjinnova2027/hermixrom/main/public/catalog/fc.json",
+      "updated_at": "2026-10-23T08:50:10.558Z"
+    }
+  }
+}
