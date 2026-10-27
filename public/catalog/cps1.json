@@ -1,7 +1,7 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "game_type": "CPS1",
-  "updated_at": "2026-10-23T07:06:28.491Z",
+  "updated_at": "2026-10-27T08:41:18.069Z",
   "games": [
     {
       "id": "cps1-20261022-5933b0b3",
@@ -422,18 +422,6 @@
       "revision": 2,
       "updated_at": "2026-10-23T07:06:28.491Z",
       "name_en": "Pang! 3"
-    },
-    {
-      "id": "cps1-20261023-f0fbea56",
-      "name": "三国志：火凤凰-三剑圣",
-      "cover_path": "../covers/cps1/cps1-20261023-f0fbea56/cover.webp",
-      "rom_path": "../roms/cps1/cps1-20261023-f0fbea56/wof3js.zip",
-      "file_name": "wof3js.zip",
-      "file_size": 2850622,
-      "sha256": "57c946e8d2c56f27b7d0457edf0ddf15a4cdfedb9fafae909264b706b46a6d40",
-      "revision": 2,
-      "updated_at": "2026-10-23T07:06:28.491Z",
-      "name_en": "Warriors of Fate: Three Sword Saints"
     },
     {
       "id": "cps1-20261023-26bad625",
