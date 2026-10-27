@@ -1,8 +1,20 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "game_type": "FC",
-  "updated_at": "2026-10-23T08:50:10.558Z",
+  "updated_at": "2026-10-27T10:15:24.369Z",
   "games": [
+    {
+      "id": "fc-20261027-f1cbabb1",
+      "name": "7.魂斗罗2代_3合1(无限命hack_by_小粽子)",
+      "name_en": "testhdl",
+      "cover_path": null,
+      "rom_path": "../roms/fc/fc-20261027-f1cbabb1/game.zip",
+      "file_name": "fc20261027f1cbabb1.zip",
+      "file_size": 149273,
+      "sha256": "c8fb2713d811e71f86098c188ba283649f1ce6a5af8c4d5e0042eeb06ef8db42",
+      "revision": 1,
+      "updated_at": "2026-10-27T10:15:24.369Z"
+    },
     {
       "id": "fc-20261023-b9ae6f48",
       "name": "1942",
