@@ -1,6 +1,7 @@
 {
   "schema_version": 2,
   "updated_at": "2026-10-27T10:15:24.369Z",
+  "hide_game_ui": false,
   "repositories": {
     "hermixrom": {
       "url": "https://github.com/zjinnova2027/hermixrom",
