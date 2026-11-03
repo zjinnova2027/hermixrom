@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-03T10:37:38.911Z",
+  "updated_at": "2026-11-03T10:38:34.269Z",
   "hide_game_ui": {
     "android": false,
-    "ios": true
+    "ios": false
   }
 }
